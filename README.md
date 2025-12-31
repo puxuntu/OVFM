@@ -14,6 +14,10 @@ OVFM is a comprehensive foundation model designed for understanding ophthalmic s
 - 🎯 Limbus Boundary Segmentation
 - 📍 Nucleus Block Localization
 
+<div align="center">
+    <a href="https://"><img width="800px" height="auto" src="images/tasks.png"></a>
+</div>
+
 ---
 
 ## 🚀 Installation
